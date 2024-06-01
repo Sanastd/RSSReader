@@ -1,7 +1,7 @@
 # RSS Reader
-This is RSS Reader in java. It allows users to subscribe and unsubscribe to websites and view updates on the latest articles from subscribed websites.
+This is RSS Reader in java. It allows user to subscribe and unsubscribe to websites and view updates on the latest articles from subscribed websites.
 
 Features:
-- Show Updates: Users can view the 5 latest articles from the subscribed websites.
-- Add URL: Users can add new websites to subscribed websites.
-- Remove URL: Users can remove websites they no longer wish to follow.
+- Show Updates: View the 5 latest articles from subscribed websites.
+- Add URL: Add new websites to subscribed websites.
+- Remove URL: Remove websites the user no longer wish to follow.
